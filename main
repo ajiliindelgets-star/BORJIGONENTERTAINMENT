@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Borjigon Entertainment</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: black;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 60px 20px;
+      background: linear-gradient(to right, #000, #222);
+    }
+    header h1 {
+      font-size: 50px;
+      color: gold;
+    }
+    section {
+      padding: 50px 20px;
+    }
+    .btn {
+      background: gold;
+      color: black;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      padding: 20px;
+      background: #111;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Borjigon Entertainment</h1>
+  <p>Creating unforgettable events & experiences</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>We organize events, concerts, and provide full entertainment services.</p>
+</section>
+
+<section>
+  <h2>Services</h2>
+  <p>Event Management | DJ | Live Shows | Video Production</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Phone: +976 00000000</p>
+  <a class="btn" href="#">Contact Us</a>
+</section>
+
+<footer>
+  <p>© 2026 Borjigon Entertainment</p>
+</footer>
+
+</body>
+</html>
